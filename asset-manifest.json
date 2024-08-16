@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/nipun/static/css/main.df8fc8c3.chunk.css",
-    "main.js": "/nipun/static/js/main.6204da45.chunk.js",
-    "main.js.map": "/nipun/static/js/main.6204da45.chunk.js.map",
+    "main.js": "/nipun/static/js/main.e57a0f5c.chunk.js",
+    "main.js.map": "/nipun/static/js/main.e57a0f5c.chunk.js.map",
     "runtime-main.js": "/nipun/static/js/runtime-main.6a76a29b.js",
     "runtime-main.js.map": "/nipun/static/js/runtime-main.6a76a29b.js.map",
-    "static/js/2.0d59a66c.chunk.js": "/nipun/static/js/2.0d59a66c.chunk.js",
-    "static/js/2.0d59a66c.chunk.js.map": "/nipun/static/js/2.0d59a66c.chunk.js.map",
+    "static/js/2.565c861c.chunk.js": "/nipun/static/js/2.565c861c.chunk.js",
+    "static/js/2.565c861c.chunk.js.map": "/nipun/static/js/2.565c861c.chunk.js.map",
     "index.html": "/nipun/index.html",
-    "precache-manifest.a08153b6d381184ba1a934b51f9ee4c0.js": "/nipun/precache-manifest.a08153b6d381184ba1a934b51f9ee4c0.js",
+    "precache-manifest.1e4a76deaa46a2925106eb03e22b6081.js": "/nipun/precache-manifest.1e4a76deaa46a2925106eb03e22b6081.js",
     "service-worker.js": "/nipun/service-worker.js",
     "static/css/main.df8fc8c3.chunk.css.map": "/nipun/static/css/main.df8fc8c3.chunk.css.map",
     "static/media/Afs.png": "/nipun/static/media/Afs.9a140c92.png",
@@ -61,8 +61,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.6a76a29b.js",
-    "static/js/2.0d59a66c.chunk.js",
+    "static/js/2.565c861c.chunk.js",
     "static/css/main.df8fc8c3.chunk.css",
-    "static/js/main.6204da45.chunk.js"
+    "static/js/main.e57a0f5c.chunk.js"
   ]
 }
